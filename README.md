@@ -1,2 +1,0 @@
-# grandiesel-app
-Imagens
